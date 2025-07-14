@@ -46,7 +46,7 @@ jupyter notebook Heart_Disease_Prediction.ipynb
 ```
 Heart-Disease-Prediction/
 ├── dataset/ Heart.csv.csv                       
-├── pyhton notebook/Heart_Disease_Prediction.ipynb
+├── pyhton Code/Heart_Disease_Prediction.ipynb
 ├── requirements.txt
 └── README.md
 ```
